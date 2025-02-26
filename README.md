@@ -50,8 +50,6 @@ Command: git checkout <main_branch> (switch back to the main branch)
 Command: git merge <branch_name> 
  This command integrates the changes made on the <branch_name> branch into the current branch (main branch in this case), resolving any conflicts if necessary. 
 
-
-
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
  Pull requests communicate changes to a branch in a repository. Once a pull request is initialiized, you can review changes with collaborators and add follow-up commits.Pull requests are central to collaboration on GitHub, as they provide a structured way to discuss and review code before it’s integrated into the project.
 Creating a Pull Request
@@ -74,6 +72,7 @@ GitHub provides options for different types of merges:
 -Click "Create pull request".
  
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+Forking creates a new repository under your account on the hosting service, allowing you to work independently of the original project while cloning creates a local copy of a repository on your local machine where you can push changes back to the remote repository if you have permissions.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
