@@ -77,7 +77,7 @@ Forking creates a new repository under your account on the hosting service, allo
 
 Issues track bugs, suggest features and point out tasks on GitHub while project boards organize issues in a progressive manner which improve project organization by making it clear what needs to be done and enhancing collaboration and workflow.
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
-Commpn version control challenges include conflicts during merging, loss of history and, complex branch management. Using clear branchng strategies, updating documents and having backup repositories can be efffective against these challenges.Ensuring that only authorized people can access, modify, or delete is effective strategy against unauthorized access to project files.
+Common version control challenges include conflicts during merging, loss of history and, complex branch management. Using clear branchng strategies, updating documents and having backup repositories can be efffective against these challenges.Ensuring that only authorized people can access, modify, or delete is effective strategy against unauthorized access to project files.
 
 
 
